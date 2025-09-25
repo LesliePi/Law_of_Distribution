@@ -8,4 +8,4 @@ A világ válságainak jelentős része az elosztás hibájára vezethető vissz
 
 A „rendszer” itt nemcsak gazdasági vagy társadalmi struktúrát jelent, hanem minden élő vagy elvont rendszert, amelyben energia, információ, figyelem, érték kering. A stabilitást nem az abszolút mennyiség adja, hanem az, hogy az adott mennyiség hogyan oszlik meg. Egy rendszer akkor kezd el szétesni, ha az elosztás egyensúlya felborul.
 
-Ez a munka nem tudományos publikáció, hanem gondolati hívás. Egy új modell születésének pillanata. Nem minden állítás bizonyított, de mindegyik kiprovokálható, és érdemes rákérdezni.
+Ez a munka nem tudományos publikáció, hanem gondolati hívás. Egy új modell születésének pillanata. Nem minden állítás bizonyított, de mindegyik bizonyítható, és érdemes rákérdezni.
